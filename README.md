@@ -145,7 +145,7 @@ text
 
     - **Download `model_weights.zip` from Google Drive:**
 
-      👉 [Download model_weights.zip from Google Drive](YOUR_GOOGLE_DRIVE_LINK_HERE)
+      👉 [Download model_weights.zip from Google Drive]([(https://drive.google.com/drive/folders/1zvMIc1bqteRN9Z36hHYpoTGoZArsh4mE)])
 
     - **Extract and rename the folder:**
 
